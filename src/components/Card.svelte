@@ -1,11 +1,11 @@
 <script>
-  const tags = ["Bug", "Fix", "Falopa"];
-  const users = [
+  export let tags = ["Bug", "Fix", "Falopa"];
+  export let user = [
     "https://thispersondoesnotexist.com/",
     "https://thispersondoesnotexist.com/",
   ];
-  const title = "Card Title";
-  const date = "28 Sept";
+  export let title = "Card Title";
+  export let date = "28 Sept";
 </script>
 
 <div class="card">
